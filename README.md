@@ -1,8 +1,8 @@
-# Web3 Boilerplate
+# Chainlink VRF 
 
-This boilerplate is made of Hardhat for smart contract development. The front-end is made of NEXT.JS, Tailwind, and ethers.js.
+This is a tutorial from learnweb3.io using Hardhat, Chainlink and the Mumbai testnet
 
-Contract deployed to: ```0x0F3030123D5A2597ef0c356248954fC237645AB7```
+Contract deployed to: ```0x1fFab57041BDaA84B2Df1Ee875A5B713230F146e```
 
 To use this template, follow these steps:
 
@@ -10,12 +10,6 @@ To use this template, follow these steps:
 clone repo
 create .env from .env.example
 yarn
-```
-
-To run the frontend use:
-
-```
-yarn dev
 ```
 
 To deploy this contract use:
